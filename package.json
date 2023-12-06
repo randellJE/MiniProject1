@@ -1,0 +1,16 @@
+{
+  "name": "miniproject1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
